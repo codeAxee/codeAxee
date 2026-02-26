@@ -111,7 +111,7 @@ Our engineering team specializes in:
 
 ## 📈 Experience & Impact
 
-- ✅ 5+ Years of Professional Engineering Experience  
+- ✅ Team composed of Top 1% Professional Engineering Talent
 - ✅ SaaS & Enterprise Product Development  
 - ✅ Cloud & On-Prem Deployment Expertise  
 - ✅ Improved team efficiency by **40%** through workflow automation and modern tooling  
